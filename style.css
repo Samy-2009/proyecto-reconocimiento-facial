@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(255, 70, 61);
+}
+p{
+    color: cornsilk;
+    font-size: 28px;
+    font-family: cursive;
+}
+b{
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#lid{
+    color:beige ;
+    font-size: 17px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+button{
+    font-size: 14px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h4{
+    font-size: 14px;
+    color: rgb(184, 237, 255);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
